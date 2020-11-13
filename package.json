@@ -1,0 +1,25 @@
+{
+  "name": "minotp",
+  "version": "1.0.0",
+  "description": "A minimal OTP generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertomosconi/minotp.git"
+  },
+  "keywords": [
+    "otp",
+    "hotp",
+    "totp",
+    "minimal"
+  ],
+  "author": "Alberto Mosconi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertomosconi/minotp/issues"
+  },
+  "homepage": "https://github.com/albertomosconi/minotp#readme"
+}
